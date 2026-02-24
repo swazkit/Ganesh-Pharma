@@ -79,25 +79,25 @@ export default function GSAPParallax() {
             aria-hidden="true"
         >
             {/* Soft Glowing Abstract Orbs (Molecule/Atom feel) */}
-            <div data-depth="0.1" className="parallax-el absolute top-[20%] right-[15%] w-96 h-96 rounded-full bg-gradient-to-tr from-pharma-200/40 to-trust-200/40 blur-[80px] opacity-60 [transform-style:preserve-3d]" />
-            <div data-depth="0.15" className="parallax-el absolute bottom-[10%] right-[30%] w-64 h-64 rounded-full bg-gradient-to-br from-accent-gold/20 to-pharma-300/30 blur-[60px] opacity-50 [transform-style:preserve-3d]" />
+            <div data-depth="0.1" className="parallax-el absolute top-[5%] sm:top-[20%] right-[-20%] sm:right-[15%] w-64 h-64 sm:w-96 sm:h-96 rounded-full bg-gradient-to-tr from-pharma-200/40 to-trust-200/40 blur-[60px] sm:blur-[80px] opacity-60 [transform-style:preserve-3d]" />
+            <div data-depth="0.15" className="parallax-el hidden sm:block absolute bottom-[10%] right-[30%] w-64 h-64 rounded-full bg-gradient-to-br from-accent-gold/20 to-pharma-300/30 blur-[60px] opacity-50 [transform-style:preserve-3d]" />
 
             {/* Floating Glassmorphic UI Card 1 - Vital Signs */}
-            <div data-depth="0.4" className="parallax-el absolute top-[25%] right-[10%] p-5 rounded-3xl bg-white/60 backdrop-blur-xl border border-white/80 shadow-2xl shadow-pharma-500/15 rotate-3 flex flex-col gap-3 z-20 [transform-style:preserve-3d] w-48">
+            <div data-depth="0.4" className="parallax-el absolute top-[5%] sm:top-[25%] -right-8 sm:right-[10%] p-4 sm:p-5 rounded-3xl bg-white/60 backdrop-blur-xl border border-white/80 shadow-2xl shadow-pharma-500/15 rotate-3 flex flex-col gap-3 z-20 [transform-style:preserve-3d] w-40 sm:w-48 scale-75 sm:scale-100 origin-top-right">
                 <div className="flex items-center justify-between">
-                    <div className="w-10 h-10 rounded-2xl bg-trust-100 flex items-center justify-center text-trust-600 shadow-inner">
-                        <svg className="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                    <div className="w-8 h-8 sm:w-10 sm:h-10 rounded-xl sm:rounded-2xl bg-trust-100 flex items-center justify-center text-trust-600 shadow-inner">
+                        <svg className="w-4 h-4 sm:w-5 sm:h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
                             <path d="M22 12h-4l-3 9L9 3l-3 9H2" />
                         </svg>
                     </div>
                     <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
                 </div>
                 <div>
-                    <p className="text-[10px] font-bold text-trust-800 uppercase tracking-wider mb-1">System Status</p>
-                    <p className="text-sm font-extrabold text-pharma-900">Optimal</p>
+                    <p className="text-[9px] sm:text-[10px] font-bold text-trust-800 uppercase tracking-wider mb-1">System Status</p>
+                    <p className="text-xs sm:text-sm font-extrabold text-pharma-900">Optimal</p>
                 </div>
                 {/* Mini decorative chart */}
-                <div className="flex items-end gap-1 h-8 mt-1 opacity-70">
+                <div className="flex items-end gap-1 h-6 sm:h-8 mt-1 opacity-70">
                     <div className="w-full bg-pharma-200 rounded-t-sm h-[40%]" />
                     <div className="w-full bg-pharma-300 rounded-t-sm h-[70%]" />
                     <div className="w-full bg-pharma-400 rounded-t-sm h-[50%]" />
@@ -108,26 +108,26 @@ export default function GSAPParallax() {
             </div>
 
             {/* Floating Glassmorphic UI Card 2 - Pharmacist Verified */}
-            <div data-depth="0.6" className="parallax-el absolute top-[60%] right-[25%] p-4 rounded-[2rem] bg-white/70 backdrop-blur-2xl border border-white/60 shadow-xl shadow-trust-500/20 -rotate-6 flex items-center gap-4 z-30 [transform-style:preserve-3d]">
+            <div data-depth="0.6" className="parallax-el absolute top-[50%] sm:top-[60%] -right-12 sm:right-[25%] p-3 sm:p-4 rounded-[1.5rem] sm:rounded-[2rem] bg-white/70 backdrop-blur-2xl border border-white/60 shadow-xl shadow-trust-500/20 -rotate-6 flex items-center gap-3 sm:gap-4 z-30 [transform-style:preserve-3d] scale-[0.65] sm:scale-100 origin-right">
                 <div className="relative">
-                    <div className="w-12 h-12 rounded-full bg-gradient-to-br from-pharma-400 to-pharma-600 flex items-center justify-center text-white shadow-lg shadow-pharma-500/30">
-                        <svg className="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                    <div className="w-10 h-10 sm:w-12 sm:h-12 rounded-full bg-gradient-to-br from-pharma-400 to-pharma-600 flex items-center justify-center text-white shadow-lg shadow-pharma-500/30">
+                        <svg className="w-5 h-5 sm:w-6 sm:h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
                             <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
                             <path d="M9 12l2 2 4-4" />
                         </svg>
                     </div>
-                    <div className="absolute -bottom-1 -right-1 w-5 h-5 bg-white rounded-full flex items-center justify-center shadow-sm">
-                        <div className="w-3.5 h-3.5 bg-green-500 rounded-full" />
+                    <div className="absolute -bottom-1 -right-1 w-4 h-4 sm:w-5 sm:h-5 bg-white rounded-full flex items-center justify-center shadow-sm">
+                        <div className="w-2.5 h-2.5 sm:w-3.5 sm:h-3.5 bg-green-500 rounded-full" />
                     </div>
                 </div>
-                <div className="pr-4">
-                    <p className="text-xs font-extrabold text-pharma-950 mb-0.5">Pharmacist Verified</p>
-                    <p className="text-[10px] font-semibold text-clinical-muted">Clinical Excellence</p>
+                <div className="pr-3 sm:pr-4">
+                    <p className="text-[10px] sm:text-xs font-extrabold text-pharma-950 mb-0.5 whitespace-nowrap">Pharmacist Verified</p>
+                    <p className="text-[8px] sm:text-[10px] font-semibold text-clinical-muted whitespace-nowrap">Clinical Excellence</p>
                 </div>
             </div>
 
             {/* Floating Glassmorphic UI Card 3 - Quick Delivery */}
-            <div data-depth="0.3" className="parallax-el absolute top-[15%] right-[38%] p-3.5 rounded-2xl bg-white/40 backdrop-blur-md border border-white/40 shadow-xl shadow-pharma-900/5 rotate-12 flex items-center gap-3 z-10 [transform-style:preserve-3d]">
+            <div data-depth="0.3" className="parallax-el hidden lg:flex absolute top-[15%] right-[38%] p-3.5 rounded-2xl bg-white/40 backdrop-blur-md border border-white/40 shadow-xl shadow-pharma-900/5 rotate-12 items-center gap-3 z-10 [transform-style:preserve-3d]">
                 <div className="w-8 h-8 rounded-full bg-accent-gold/20 flex items-center justify-center text-accent-gold shadow-inner border border-accent-gold/20">
                     <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
                         <circle cx="12" cy="12" r="10" />
@@ -140,7 +140,7 @@ export default function GSAPParallax() {
             </div>
 
             {/* Subtle floating medical cross (Foreground) */}
-            <div data-depth="0.8" className="parallax-el absolute bottom-[20%] right-[12%] w-16 h-16 rounded-3xl bg-gradient-to-br from-trust-400/80 to-trust-500/60 shadow-2xl shadow-trust-500/30 rotate-12 flex items-center justify-center z-40 backdrop-blur-md border border-white/40 [transform-style:preserve-3d]">
+            <div data-depth="0.8" className="parallax-el hidden sm:flex absolute bottom-[20%] right-[12%] w-16 h-16 rounded-3xl bg-gradient-to-br from-trust-400/80 to-trust-500/60 shadow-2xl shadow-trust-500/30 rotate-12 items-center justify-center z-40 backdrop-blur-md border border-white/40 [transform-style:preserve-3d]">
                 <svg className="w-8 h-8 text-white drop-shadow-md" viewBox="0 0 24 24" fill="currentColor">
                     <path d="M19 10h-5V5a1 1 0 00-1-1h-2a1 1 0 00-1 1v5H5a1 1 0 00-1 1v2a1 1 0 001 1h5v5a1 1 0 001 1h2a1 1 0 001-1v-5h5a1 1 0 001-1v-2a1 1 0 00-1-1z" />
                 </svg>
