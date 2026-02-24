@@ -1,0 +1,298 @@
+[
+  {
+    "slug": "metformin-500mg",
+    "name": "Metformin Hydrochloride 500mg",
+    "genericName": "Metformin",
+    "description": "Metformin 500mg tablets for effective blood sugar management in Type 2 diabetes. FDA-approved, clinically proven formula.",
+    "longDescription": "Metformin Hydrochloride 500mg is the gold-standard first-line treatment for Type 2 diabetes mellitus. This FDA-approved medication works by decreasing glucose production in the liver while improving insulin sensitivity in muscle tissue. Clinically proven to reduce HbA1c levels effectively, Metformin helps maintain stable blood sugar levels throughout the day. Each tablet is manufactured under strict GMP conditions to ensure consistent quality and bioavailability.",
+    "price": 12.99,
+    "originalPrice": 18.99,
+    "currency": "USD",
+    "image": "/images/metformin.jpg",
+    "category": "Diabetes Care",
+    "categorySlug": "diabetes-care",
+    "dosage": "500mg",
+    "form": "Tablets",
+    "manufacturer": "PharmaCorp Labs",
+    "inStock": true,
+    "requiresPrescription": true,
+    "rating": 4.8,
+    "reviewCount": 1247,
+    "sideEffects": ["Nausea", "Diarrhea", "Stomach upset", "Metallic taste"],
+    "faqs": [
+      {
+        "question": "How should I take Metformin 500mg?",
+        "answer": "Take Metformin 500mg with meals as directed by your healthcare provider. Typically, the starting dose is one tablet twice daily with breakfast and dinner. Always follow your doctor's specific instructions."
+      },
+      {
+        "question": "What are the common side effects of Metformin?",
+        "answer": "Common side effects include nausea, diarrhea, stomach upset, and a metallic taste. These usually improve over time. Contact your doctor if side effects persist or worsen."
+      },
+      {
+        "question": "Can I buy Metformin without a prescription?",
+        "answer": "Metformin is a prescription medication. You will need a valid prescription from a licensed healthcare provider to purchase this medication from our pharmacy."
+      }
+    ],
+    "tags": ["diabetes", "blood-sugar", "type-2-diabetes", "oral-medication", "best-seller"],
+    "sku": "MET-500-TAB"
+  },
+  {
+    "slug": "lisinopril-10mg",
+    "name": "Lisinopril 10mg Tablets",
+    "genericName": "Lisinopril",
+    "description": "Lisinopril 10mg ACE inhibitor for blood pressure management and cardiovascular protection. Clinically proven efficacy.",
+    "longDescription": "Lisinopril 10mg is a trusted ACE inhibitor widely prescribed for the treatment of hypertension and heart failure. By blocking the angiotensin-converting enzyme, Lisinopril helps relax blood vessels, reducing blood pressure and decreasing the workload on the heart. This medication has been clinically proven to reduce the risk of stroke, heart attack, and kidney problems in patients with high blood pressure. Manufactured under rigorous quality standards for optimal therapeutic benefit.",
+    "price": 9.49,
+    "originalPrice": 15.99,
+    "currency": "USD",
+    "image": "/images/lisinopril.jpg",
+    "category": "Heart Health",
+    "categorySlug": "heart-health",
+    "dosage": "10mg",
+    "form": "Tablets",
+    "manufacturer": "CardioPharm Inc",
+    "inStock": true,
+    "requiresPrescription": true,
+    "rating": 4.7,
+    "reviewCount": 983,
+    "sideEffects": ["Dizziness", "Dry cough", "Headache", "Fatigue"],
+    "faqs": [
+      {
+        "question": "How long does Lisinopril take to work?",
+        "answer": "Lisinopril begins to lower blood pressure within 1 hour, with peak effects occurring in about 6 hours. Full therapeutic benefits may take 2-4 weeks of consistent use."
+      },
+      {
+        "question": "Can I take Lisinopril with other medications?",
+        "answer": "Lisinopril may interact with certain medications including NSAIDs, potassium supplements, and other blood pressure medications. Always inform your doctor about all medications you are taking."
+      },
+      {
+        "question": "What should I do if I miss a dose?",
+        "answer": "Take the missed dose as soon as you remember. If it's close to your next scheduled dose, skip the missed dose and continue with your regular schedule. Never double up on doses."
+      }
+    ],
+    "tags": ["blood-pressure", "ace-inhibitor", "heart-health", "cardiovascular", "best-seller"],
+    "sku": "LIS-10-TAB"
+  },
+  {
+    "slug": "omeprazole-20mg",
+    "name": "Omeprazole 20mg Capsules",
+    "genericName": "Omeprazole",
+    "description": "Omeprazole 20mg proton pump inhibitor for effective acid reflux and GERD treatment. Fast-acting relief.",
+    "longDescription": "Omeprazole 20mg is a proton pump inhibitor (PPI) that effectively reduces stomach acid production. It is widely prescribed for the treatment of gastroesophageal reflux disease (GERD), stomach ulcers, and conditions involving excessive stomach acid. Omeprazole provides lasting relief by blocking the enzyme system responsible for acid production in the stomach lining. Available in easy-to-swallow delayed-release capsules for optimal absorption and effectiveness.",
+    "price": 11.99,
+    "originalPrice": 19.49,
+    "currency": "USD",
+    "image": "/images/omeprazole.jpg",
+    "category": "Digestive Health",
+    "categorySlug": "digestive-health",
+    "dosage": "20mg",
+    "form": "Capsules",
+    "manufacturer": "GastroMed Pharmaceuticals",
+    "inStock": true,
+    "requiresPrescription": false,
+    "rating": 4.6,
+    "reviewCount": 2156,
+    "sideEffects": ["Headache", "Nausea", "Abdominal pain", "Diarrhea"],
+    "faqs": [
+      {
+        "question": "How long can I take Omeprazole?",
+        "answer": "Over-the-counter Omeprazole is typically used for 14-day treatment courses, up to 3 times per year. For longer-term use, consult your healthcare provider for appropriate monitoring and guidance."
+      },
+      {
+        "question": "When should I take Omeprazole?",
+        "answer": "Take Omeprazole 30 minutes before your first meal of the day. Swallow the capsule whole with water — do not crush, chew, or open the delayed-release capsule."
+      },
+      {
+        "question": "Is Omeprazole safe during pregnancy?",
+        "answer": "Consult your healthcare provider before taking Omeprazole during pregnancy. Your doctor will weigh the benefits against potential risks to determine if this medication is appropriate for you."
+      }
+    ],
+    "tags": ["acid-reflux", "gerd", "stomach", "digestive", "best-seller"],
+    "sku": "OME-20-CAP"
+  },
+  {
+    "slug": "atorvastatin-20mg",
+    "name": "Atorvastatin 20mg Tablets",
+    "genericName": "Atorvastatin",
+    "description": "Atorvastatin 20mg statin for cholesterol management and cardiovascular risk reduction. Proven efficacy.",
+    "longDescription": "Atorvastatin 20mg belongs to the statin class of medications, designed to lower LDL (bad) cholesterol and triglycerides while raising HDL (good) cholesterol. As one of the most prescribed cholesterol-lowering medications worldwide, Atorvastatin has been extensively studied and proven to significantly reduce the risk of cardiovascular events including heart attack and stroke. This medication works by inhibiting HMG-CoA reductase, the key enzyme in cholesterol synthesis within the liver.",
+    "price": 14.99,
+    "originalPrice": 24.99,
+    "currency": "USD",
+    "image": "/images/atorvastatin.jpg",
+    "category": "Heart Health",
+    "categorySlug": "heart-health",
+    "dosage": "20mg",
+    "form": "Tablets",
+    "manufacturer": "CardioPharm Inc",
+    "inStock": true,
+    "requiresPrescription": true,
+    "rating": 4.9,
+    "reviewCount": 1589,
+    "sideEffects": ["Muscle pain", "Joint pain", "Nausea", "Diarrhea"],
+    "faqs": [
+      {
+        "question": "When is the best time to take Atorvastatin?",
+        "answer": "Atorvastatin can be taken at any time of day, with or without food. However, taking it at the same time each day helps maintain consistent levels and establishes a routine."
+      },
+      {
+        "question": "How quickly does Atorvastatin lower cholesterol?",
+        "answer": "Atorvastatin begins working within 2 weeks, with maximum cholesterol reduction typically achieved within 4-6 weeks of consistent use at the prescribed dose."
+      },
+      {
+        "question": "Are there dietary restrictions with Atorvastatin?",
+        "answer": "Avoid excessive grapefruit juice consumption while taking Atorvastatin. Maintain a heart-healthy diet low in saturated fats and cholesterol for best results."
+      }
+    ],
+    "tags": ["cholesterol", "statin", "heart-health", "cardiovascular", "best-seller"],
+    "sku": "ATO-20-TAB"
+  },
+  {
+    "slug": "sertraline-50mg",
+    "name": "Sertraline 50mg Tablets",
+    "genericName": "Sertraline",
+    "description": "Sertraline 50mg SSRI antidepressant for depression and anxiety disorders. Clinically validated treatment.",
+    "longDescription": "Sertraline 50mg is a selective serotonin reuptake inhibitor (SSRI) approved for the treatment of major depressive disorder, panic disorder, social anxiety disorder, obsessive-compulsive disorder, and post-traumatic stress disorder. By increasing serotonin availability in the brain, Sertraline helps restore emotional balance and improve mood regulation. This well-tolerated medication is backed by decades of clinical research and is one of the most widely prescribed antidepressants worldwide.",
+    "price": 16.49,
+    "originalPrice": 27.99,
+    "currency": "USD",
+    "image": "/images/sertraline.jpg",
+    "category": "Mental Health",
+    "categorySlug": "mental-health",
+    "dosage": "50mg",
+    "form": "Tablets",
+    "manufacturer": "NeuroPharm Sciences",
+    "inStock": true,
+    "requiresPrescription": true,
+    "rating": 4.5,
+    "reviewCount": 876,
+    "sideEffects": ["Nausea", "Insomnia", "Dizziness", "Dry mouth"],
+    "faqs": [
+      {
+        "question": "How long does Sertraline take to work?",
+        "answer": "Sertraline may begin improving symptoms within 1-2 weeks, but full therapeutic effects typically develop over 4-6 weeks. Continue taking the medication as prescribed even if you don't notice immediate improvement."
+      },
+      {
+        "question": "Can I stop taking Sertraline suddenly?",
+        "answer": "Never stop Sertraline abruptly. Discontinuation should be gradual under medical supervision to avoid withdrawal symptoms. Your doctor will create a tapering schedule appropriate for you."
+      },
+      {
+        "question": "Does Sertraline cause weight gain?",
+        "answer": "Sertraline may cause modest weight changes in some patients. Weight effects vary individually. Discuss any concerns about weight changes with your healthcare provider."
+      }
+    ],
+    "tags": ["antidepressant", "ssri", "mental-health", "depression", "anxiety"],
+    "sku": "SER-50-TAB"
+  },
+  {
+    "slug": "amoxicillin-500mg",
+    "name": "Amoxicillin 500mg Capsules",
+    "genericName": "Amoxicillin",
+    "description": "Amoxicillin 500mg broad-spectrum antibiotic for bacterial infections. Fast-acting, well-tolerated formula.",
+    "longDescription": "Amoxicillin 500mg is a broad-spectrum penicillin-type antibiotic effective against a wide range of bacterial infections. Commonly prescribed for respiratory infections, ear infections, urinary tract infections, and skin infections, Amoxicillin works by inhibiting bacterial cell wall synthesis. This well-established medication is known for its excellent absorption, good tissue penetration, and well-tolerated side effect profile, making it one of the most commonly prescribed antibiotics worldwide.",
+    "price": 8.99,
+    "originalPrice": 14.49,
+    "currency": "USD",
+    "image": "/images/amoxicillin.jpg",
+    "category": "Antibiotics",
+    "categorySlug": "antibiotics",
+    "dosage": "500mg",
+    "form": "Capsules",
+    "manufacturer": "BioMed Pharmaceuticals",
+    "inStock": true,
+    "requiresPrescription": true,
+    "rating": 4.7,
+    "reviewCount": 2341,
+    "sideEffects": ["Diarrhea", "Nausea", "Rash", "Vomiting"],
+    "faqs": [
+      {
+        "question": "How should I take Amoxicillin 500mg?",
+        "answer": "Take Amoxicillin every 8 hours (three times daily) or every 12 hours (twice daily) as directed by your doctor. It can be taken with or without food. Complete the entire prescribed course even if you feel better."
+      },
+      {
+        "question": "What infections does Amoxicillin treat?",
+        "answer": "Amoxicillin treats various bacterial infections including respiratory infections, ear infections (otitis media), urinary tract infections, skin infections, and certain dental infections."
+      },
+      {
+        "question": "Can I take Amoxicillin if I'm allergic to penicillin?",
+        "answer": "No. Amoxicillin is a penicillin-type antibiotic. If you have a known penicillin allergy, inform your doctor immediately. An alternative antibiotic will be prescribed."
+      }
+    ],
+    "tags": ["antibiotic", "infection", "bacterial", "penicillin", "best-seller"],
+    "sku": "AMO-500-CAP"
+  },
+  {
+    "slug": "levothyroxine-50mcg",
+    "name": "Levothyroxine 50mcg Tablets",
+    "genericName": "Levothyroxine",
+    "description": "Levothyroxine 50mcg thyroid hormone replacement for hypothyroidism management. Precise dosing formula.",
+    "longDescription": "Levothyroxine 50mcg is a synthetic thyroid hormone (T4) used as replacement therapy in patients with hypothyroidism. This medication precisely replaces the thyroid hormone that your body is unable to produce in sufficient quantities. Levothyroxine restores normal metabolic function, energy levels, and hormonal balance. Manufactured with precise dosing accuracy critical for thyroid hormone replacement, each tablet delivers consistent and reliable hormone levels for stable thyroid function management.",
+    "price": 7.99,
+    "originalPrice": 12.99,
+    "currency": "USD",
+    "image": "/images/levothyroxine.jpg",
+    "category": "Thyroid Health",
+    "categorySlug": "thyroid-health",
+    "dosage": "50mcg",
+    "form": "Tablets",
+    "manufacturer": "EndoPharm Labs",
+    "inStock": true,
+    "requiresPrescription": true,
+    "rating": 4.8,
+    "reviewCount": 1102,
+    "sideEffects": ["Hair loss (temporary)", "Insomnia", "Increased appetite", "Sweating"],
+    "faqs": [
+      {
+        "question": "When should I take Levothyroxine?",
+        "answer": "Take Levothyroxine on an empty stomach, 30-60 minutes before breakfast, with a full glass of water. Consistent timing is important for maintaining stable thyroid hormone levels."
+      },
+      {
+        "question": "What foods or supplements interfere with Levothyroxine?",
+        "answer": "Calcium, iron supplements, antacids, and high-fiber foods can reduce Levothyroxine absorption. Space these at least 4 hours apart from your Levothyroxine dose."
+      },
+      {
+        "question": "How often do I need blood tests while taking Levothyroxine?",
+        "answer": "Typically, TSH levels are checked 6-8 weeks after starting or adjusting your dose, then every 6-12 months once levels are stable. Your doctor will determine the appropriate monitoring schedule."
+      }
+    ],
+    "tags": ["thyroid", "hypothyroidism", "hormone-replacement", "endocrine", "best-seller"],
+    "sku": "LEV-50-TAB"
+  },
+  {
+    "slug": "cetirizine-10mg",
+    "name": "Cetirizine 10mg Tablets",
+    "genericName": "Cetirizine",
+    "description": "Cetirizine 10mg antihistamine for 24-hour allergy relief. Non-drowsy formula for seasonal and perennial allergies.",
+    "longDescription": "Cetirizine 10mg is a second-generation antihistamine providing effective 24-hour relief from allergy symptoms including sneezing, runny nose, itchy and watery eyes, and itching of the nose or throat. Unlike first-generation antihistamines, Cetirizine offers reduced sedation while maintaining powerful anti-allergic activity. Suitable for both seasonal allergies (hay fever) and year-round allergic conditions, this once-daily medication begins working within 20 minutes for fast symptom relief.",
+    "price": 6.49,
+    "originalPrice": 10.99,
+    "currency": "USD",
+    "image": "/images/cetirizine.jpg",
+    "category": "Allergy Care",
+    "categorySlug": "allergy-care",
+    "dosage": "10mg",
+    "form": "Tablets",
+    "manufacturer": "AllergyFree Pharma",
+    "inStock": true,
+    "requiresPrescription": false,
+    "rating": 4.6,
+    "reviewCount": 3201,
+    "sideEffects": ["Drowsiness", "Dry mouth", "Headache", "Fatigue"],
+    "faqs": [
+      {
+        "question": "Is Cetirizine truly non-drowsy?",
+        "answer": "Cetirizine is classified as a minimally sedating antihistamine. While most people don't experience significant drowsiness, some individuals may feel slightly sleepy. Avoid driving until you know how it affects you."
+      },
+      {
+        "question": "Can children take Cetirizine 10mg?",
+        "answer": "Cetirizine 10mg tablets are appropriate for adults and children 6 years and older. Children aged 2-5 should use the liquid formulation at a reduced dose. Consult your pediatrician for proper dosing."
+      },
+      {
+        "question": "Can I take Cetirizine long-term?",
+        "answer": "Cetirizine is considered safe for long-term daily use for chronic allergy management. However, consult your healthcare provider for guidance on extended use beyond the recommended period."
+      }
+    ],
+    "tags": ["allergy", "antihistamine", "hay-fever", "non-drowsy", "otc"],
+    "sku": "CET-10-TAB"
+  }
+]
